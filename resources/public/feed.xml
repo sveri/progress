@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://progress.sveri.de/' rel='self' type='application/rss+xml'/>
+<title>
+My progress
+</title>
+<link>
+http://progress.sveri.de/
+</link>
+<description>
+Progress about getting less and more
+</description>
+<lastBuildDate>
+Thu, 01 Jun 2017 12:22:09 +0200
+</lastBuildDate>
+<generator>
+clj-rss
+</generator>
+<item>
+<guid>
+http://progress.sveri.de/posts-output/2017-01-07-docs/
+</guid>
+<link>
+http://progress.sveri.de/posts-output/2017-01-07-docs/
+</link>
+<title>
+First Day
+</title>
+<description>
+&lt;p&gt;This is the first day of my new me:&lt;/p&gt;
+</description>
+<enclosure>
+
+</enclosure>
+<pubDate>
+Sat, 07 Jan 2017 00:00:00 +0100
+</pubDate>
+</item>
+</channel>
+</rss>
